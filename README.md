@@ -16,7 +16,9 @@ By default, the program outputs to stdout:
 * The number of unique words
 * The total number of words
 * Up to ten unique words with highest frequency
+
 If input files are not provided, the program will read input from stdin
+
 
 `./a.out [-nX]  [files]`
 
