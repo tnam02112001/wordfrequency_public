@@ -4,10 +4,10 @@ Word Frequency Counter Program developed in C Programming Language
 >⚠ Note: This is a programming project of the System Programming class (CPE 357) at Cal Poly. According to the Collaboration Agreement of the Institution regarding Code Distribution, I cannot make my source code of this project public. Please feel free to reach out to me if you need further access to this project.
 
 ## Features
-Support input from both stdin and files
-Support both binary and text files
-Support inputs from multiple files
-Utilizize Hash Table Data Structure with Separate Chaining for fast performance
+* Support input from both stdin and files
+* Support both binary and text files
+* Support inputs from multiple files
+* Utilizize Hash Table Data Structure with Separate Chaining for fast performance
 
 ## Usage
 `./a.out [files…]`
