@@ -11,6 +11,7 @@ Utilizize Hash Table Data Structure with Separate Chaining for fast performance
 
 ## Usage
 `./a.out [files…]`
+
 By default, the program outputs to stdout:
 * The number of unique words
 * The total number of words
@@ -18,4 +19,5 @@ By default, the program outputs to stdout:
 If input files are not provided, the program will read input from stdin
 
 `./a.out [-nX]  [files]`
+
 The program also supports the flag [-nX], in which X is the number of words with the highest frequency that the user wants to display.
